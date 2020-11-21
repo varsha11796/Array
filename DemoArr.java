@@ -1,4 +1,7 @@
-class Demo
+create a class "DemoArr",with the function "disp". create 4 objects of this class in an array.
+Traverse the array and invoke "disp" on each objects.
+
+	class Demo
 {
 
 	public int display()
